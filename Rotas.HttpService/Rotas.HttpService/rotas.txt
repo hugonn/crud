@@ -1,0 +1,7 @@
+﻿{"Origem":"GRU","Destino":"BRC","Valor":10.0}
+{"Origem":"BRC","Destino":"SCL","Valor":5.0}
+{"Origem":"GRU","Destino":"CDG","Valor":75.0}
+{"Origem":"GRU","Destino":"SCL","Valor":20.0}
+{"Origem":"GRU","Destino":"ORL","Valor":56.0}
+{"Origem":"ORL","Destino":"CDG","Valor":5.0}
+{"Origem":"SCL","Destino":"ORL","Valor":20.0}

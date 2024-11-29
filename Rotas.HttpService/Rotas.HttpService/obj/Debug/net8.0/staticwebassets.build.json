@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "grFhGqflWfloeH8e4xTrxOAFZpWkBbfuPE2vjAclihI=",
+  "Source": "Rotas.HttpService",
+  "BasePath": "_content/Rotas.HttpService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
